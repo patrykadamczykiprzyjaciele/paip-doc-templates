@@ -1,2 +1,2 @@
-# paip-doc-templates
+# PAiP Document Templates
 Document Templates
